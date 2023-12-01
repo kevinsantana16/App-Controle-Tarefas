@@ -1,4 +1,4 @@
-#Laravel Task Manager
+# Laravel Task Manager
 
 Overview
 Este é um aplicativo de controle de tarefas desenvolvido em Laravel, oferecendo funcionalidades abrangentes para simplificar a gestão das suas atividades diárias.
